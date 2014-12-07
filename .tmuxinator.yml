@@ -1,0 +1,11 @@
+name: ruby-boilerplate
+root: ~/Repos/ruby-boilerplate
+windows:
+  - editor:
+      layout: main-vertical
+      layout: 7498,172x47,0,0{99x47,0,0,1,72x47,100,0,5}
+      panes:
+        - vim
+        - guard
+  - shell: git fetch
+
